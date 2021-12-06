@@ -1,0 +1,20 @@
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.csprojAssemblyReference.cache
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.Properties.Resources.resources
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.csproj.GenerateResource.cache
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\bin\Debug\GraphicalAssignment.exe.config
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\bin\Debug\GraphicalAssignment.exe
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\bin\Debug\GraphicalAssignment.pdb
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.exe
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.pdb
+C:\Users\adejo\source\repos\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.GrafPack.resources
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\bin\Debug\GraphicalAssignment.exe.config
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\bin\Debug\GraphicalAssignment.exe
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\bin\Debug\GraphicalAssignment.pdb
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.csprojAssemblyReference.cache
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.GrafPack.resources
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.Properties.Resources.resources
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.csproj.GenerateResource.cache
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.exe
+C:\Users\adejo\Desktop\1728637 - Computer Graphic Programming\Part 1 - Grafpak\GraphicalAssignment\GraphicalAssignment\obj\Debug\GraphicalAssignment.pdb
